@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+		
+<channel>
+	<title>Kpop Sites</title>
+	<link>http://www.allkpop.com/</link>
+	<description>Popular News Site</description>
+	<item>
+		<title>DramaFever</title>
+		<link>https://www.dramafever.com/</link>
+		<description>Popular Kdrama Site</description>
+	</item>
+	<item>
+		<title>RomanticCrown</title>
+		<link>http://romanticcrown.com/index.html</link>
+		<description>Popular Korean Clothing</description>
+	</item>
+</channel>
+
+</rss>
