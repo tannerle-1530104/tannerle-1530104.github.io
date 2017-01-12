@@ -2,12 +2,6 @@ body {
 	background-color: #ff9999;
 }
 
-style {
-	img {
-		float: right;
-	}
-}
-
 h1 {
 	color: red;
 	font-family: 'Helvetica';
